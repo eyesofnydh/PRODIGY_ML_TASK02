@@ -43,7 +43,7 @@ Print the first few rows of the DataFrame with the cluster assignments.
 Example Output
 The script will display a scatter plot showing the customer segments based on their annual income and spending score. Each segment will be represented by a different color.
 
- ![image]
+ ![image](https://github.com/eyesofnydh/PRODIGY_ML_TASK02/blob/main/Figure_1.png)
  
    CustomerID  Gender  Age  Annual Income (k$)  Spending Score (1-100)  Cluster
 0           1    Male   19                  15                      39        4
